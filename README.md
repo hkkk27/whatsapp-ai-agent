@@ -167,18 +167,6 @@ https://<your-ngrok-url>/webhook
 
 ---
 
-## 🧾 Resume Description Example
-
-> **WhatsApp AI Agent (Python, FastAPI, Twilio, Notion API, OpenRouter)**
->
-> * Built an AI-powered WhatsApp assistant that classifies messages as notes, reminders, or to-dos.
-> * Integrated Notion API for structured data storage and Twilio WhatsApp API for real-time messaging.
-> * Implemented OpenRouter GPT-based model for natural language understanding and time parsing.
-> * Deployed FastAPI backend with modular architecture and environment-based configuration.
-> * Published project on GitHub to demonstrate applied AI + API integration skills.
-
----
-
 ## 💡 Future Enhancements
 
 * ✅ Google Calendar or Outlook integration
@@ -193,4 +181,5 @@ https://<your-ngrok-url>/webhook
 **Harshit Singh**
 📧 [[harshitkumarsingh04@gmail.com](mailto:harshitkumarsingh04@gmail.com)]
 🌐 [GitHub Profile](https://github.com/hkkk27)
+
 
